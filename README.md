@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @kardecallan566
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bem-vindo ao Meu Perfil no GitHub! 👋
+
+Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código limpo e eficiente. 
+
+## 🔧 Tecnologias e Ferramentas
+
+- Linguagens: Python, JavaScript
+- Frameworks: React, Django
+- Banco de Dados: PostgreSQL, MongoDB
+- Ferramentas de Desenvolvimento: VS Code, Docker
+- Controle de Versão: Git
+
+## 🌱 Atualmente Estou Aprendendo
+
+- Django
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 📫 Como Me Encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/kardecallan566/)
+- [Email](mailto:kardecallan56@gmail.com)
+
+Fique à vontade para explorar meus repositórios e sinta-se à vontade para colaborar ou sugerir melhorias. Aprecie o código! 🚀
 
 <!---
 kardecallan566/kardecallan566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
