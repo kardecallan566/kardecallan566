@@ -5,9 +5,9 @@ Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código l
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens: Python, JavaScript
-- Frameworks: React, Django
+- Frameworks: React, Django, Pyscript
 - Banco de Dados: PostgreSQL, MongoDB
-- Ferramentas de Desenvolvimento: VS Code, Docker
+- Ferramentas de Desenvolvimento: VS Code, Pycharm, Sublime Text 3, 
 - Controle de Versão: Git
 
 ## 🌱 Atualmente Estou Aprendendo
