@@ -16,7 +16,7 @@ Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código l
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kardecallan566&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 Como Me Encontrar
 
