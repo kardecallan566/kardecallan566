@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub! 👋
 
-Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código limpo e eficiente. 
+Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código gosto de ................................................
 
 ## 🔧 Tecnologias e Ferramentas
 
