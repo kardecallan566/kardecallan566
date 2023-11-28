@@ -1,13 +1,13 @@
-# Bem-vindo ao Meu Perfil no GitHub! 👋
+# Bem-vindo ao Meu Perfil! 
 
-Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta do código gosto de ................................................
+Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta de programação, apaixonado por IA, é dados.
 
 ## 🔧 Tecnologias e Ferramentas
 
-- Linguagens: Python, JavaScript
+- Linguagens: Python, JavaScript, Java, SQL, Prolog, 
 - Frameworks: React, Django, Pyscript
 - Banco de Dados: PostgreSQL, MongoDB
-- Ferramentas de Desenvolvimento: VS Code, Pycharm, Sublime Text 3, 
+- Ferramentas de Desenvolvimento: VSCode, Pycharm, Sublime Text 3
 - Controle de Versão: Git
 
 ## 🌱 Atualmente Estou Aprendendo
