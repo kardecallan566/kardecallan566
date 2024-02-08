@@ -20,7 +20,7 @@ Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta de programa�
 
 ## 📫 Como Me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/kardecallan566/)
+- [LinkedIn](https://www.linkedin.com/in/kardecallan56/)
 - [Email](mailto:kardecallan56@gmail.com)
 
 Fique à vontade para explorar meus repositórios e sinta-se à vontade para colaborar ou sugerir melhorias. Aprecie o código! 🚀
