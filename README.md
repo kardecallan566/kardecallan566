@@ -1,29 +1,29 @@
-# Bem-vindo ao Meu Perfil! 
+# Welcome to My Profile!
 
-Olá, sou Kardecallan566, um apaixonado por tecnologia e entusiasta de programação, apaixonado por IA, é dados.
+Hello, I'm Kardecallan566, a technology enthusiast and programming aficionado with a passion for AI and data.
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies and Tools
 
-- Linguagens: Python, JavaScript, Java, SQL, Prolog, 
+- Languages: Python, JavaScript, Java, SQL, Prolog, 
 - Frameworks: React, Django, Pyscript
-- Banco de Dados: PostgreSQL, MongoDB
-- Ferramentas de Desenvolvimento: VSCode, Pycharm, Sublime Text 3
-- Controle de Versão: Git
+- Databases: PostgreSQL, MongoDB
+- Development Tools: VSCode, Pycharm, Sublime Text 3
+- Version Control: Git
 
-## 🌱 Atualmente Estou Aprendendo
+## 🌱 Currently, I am learning
 
-- Django
+- React, TypeScript, NodeJs
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kardecallan566&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-## 📫 Como Me Encontrar
+## 📫 How to Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/kardecallan56/)
 - [Email](mailto:kardecallan56@gmail.com)
 
-Fique à vontade para explorar meus repositórios e sinta-se à vontade para colaborar ou sugerir melhorias. Aprecie o código! 🚀
+Feel free to explore my repositories and don't hesitate to collaborate or suggest improvements. Enjoy the code! 🚀
 
 <!---
 kardecallan566/kardecallan566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
