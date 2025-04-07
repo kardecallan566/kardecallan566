@@ -4,7 +4,7 @@ Hello, I'm Kardecallan566, a technology enthusiast and programming aficionado wi
 
 ## 🔧 Technologies and Tools
 
-- Languages: Python, JavaScript, Java, SQL, Prolog, 
+- Languages: Python, JavaScript, SQL, Prolog, 
 - Frameworks: React, Django, Pyscript, TensorFlow, Matplotlib, sklearn
 - Databases: PostgreSQL, MongoDB, MySQL, SQL Server
 - Development Tools: VSCode, Pycharm, Sublime Text 3
